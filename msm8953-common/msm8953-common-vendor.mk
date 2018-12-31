@@ -609,4 +609,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     PowerOffAlarm \
     TimeService \
+	HotwordEnrollmentOKGoogleWCD9340 \
+    HotwordEnrollmentXGoogleWCD9340 \
     WfdCommon
+
